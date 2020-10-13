@@ -8,7 +8,7 @@
   "repository": "https://github.com/changesets/changesets/tree/master/packages/get-github-info",
   "dependencies": {
     "dataloader": "^1.4.0",
-    "node-fetch": "^2.5.0"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "nock": "^11.7.0",
